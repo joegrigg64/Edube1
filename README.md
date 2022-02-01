@@ -4,4 +4,4 @@ Files used in Python Institue Training 1
 
 # Can take the test online (non-proctored) for the PCEP
 
-# Essentials 2 progress URL: https://edube.org/learn/pe-2/section-summary-88
+# Essentials 2 progress URL: https://edube.org/learn/pe-2/useful-modules-random-17
